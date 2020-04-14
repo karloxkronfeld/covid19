@@ -1,7 +1,6 @@
 # Covid19-Colombia
 
-dashboard con los datos del covid en Colombia
-Graficador a nivel mundial
+Dashboard con los datos del covid en Colombia y un graficador a nivel mundial
 
 ![](https://user-images.githubusercontent.com/63472277/79281517-845bb780-7e78-11ea-8383-034e2742763d.png)
 
